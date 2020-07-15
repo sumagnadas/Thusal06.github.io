@@ -2,7 +2,7 @@ const autoprefixer = require('autoprefixer');
 module.exports = {
   siteMetadata: {
     title: 'Thusal Ranawaka',
-    subtitle: 'Programmar'
+    subtitle: 'Programmer'
   },
   plugins: [
     {
